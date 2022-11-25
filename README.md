@@ -1,6 +1,9 @@
 # It is Not based on Fcm
 
-A new Flutter project.
+This project use flutter_local_notification for local device's alarm system
+
+Change android > app > gradle.build,
+Make main.dart and Test them
 
 ## Getting Started
 
